@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719955679285",
+    "firebase_url": "https://codegarage-app.firebaseio.com",
+    "project_id": "codegarage-app",
+    "storage_bucket": "codegarage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719955679285:android:61dfaa9604782ca4",
+        "android_client_info": {
+          "package_name": "com.codegarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719955679285-55l1u75hjn03bdribssnprmlsg79015b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegarage",
+            "certificate_hash": "128b5a7bf319346e32a850f7f7f4d55ce3b3eae7"
+          }
+        },
+        {
+          "client_id": "719955679285-702cdabtmqc8q9e1s8eqd6297mgav6qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4N0BPUUPYfoAd8EZJirP1qZi7fwg2Og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719955679285-702cdabtmqc8q9e1s8eqd6297mgav6qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
