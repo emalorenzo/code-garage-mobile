@@ -23,7 +23,7 @@
           }
         },
         {
-          "client_id": "719955679285-702cdabtmqc8q9e1s8eqd6297mgav6qk.apps.googleusercontent.com",
+          "client_id": "719955679285-2ncb7oojfppcuo1covm3ji5m03pge2it.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -40,8 +40,15 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "719955679285-702cdabtmqc8q9e1s8eqd6297mgav6qk.apps.googleusercontent.com",
+              "client_id": "719955679285-5obftfgdo37vrq34ssr7stetlvo5v6s7.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "719955679285-f33bv10cbrgbsgmshr81e8n337u9vp8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codegarage"
+              }
             }
           ]
         },
