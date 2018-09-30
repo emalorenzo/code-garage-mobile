@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, TouchableOpacity } from 'react-native';
 import firebase from 'react-native-firebase';
 import { GoogleSignin, GoogleSigninButton, statusCodes } from 'react-native-google-signin'
+var FBLoginButton = require('./FBLoginButton')
 
 class App extends React.Component {
 
@@ -83,6 +84,7 @@ class App extends React.Component {
           onPress={() => this._signIn()}
           disabled={this.state.isSigninInProgress}
         />
+        <FBLoginButton />
         <TouchableOpacity
           onPress={() => this.signOut()}
           style={{ margin: 20, padding: 20 }}
